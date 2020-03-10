@@ -1,5 +1,5 @@
 # MazeGame
-A Java dungeons themed maze game where players must overcome obstacles and achieve specific goals. There are 10 different levels, and was designed using Object Oriented Programming, utilising the Strategy Pattern for enemy movement, State Pattern for collectable objects, Observer Pattern for inventory updates and Composite Pattern for goals. Testing was done through JUnit Tests. For this project, I was in charge of dungeon, level and instructions page design for frontend and logic for picking up items, storing them in an inventory and using them (e.g. opening doors, destorying enemies) for backend. 
+A Java dungeons themed maze game where players must overcome obstacles and achieve specific goals. There are 10 different levels, and was designed using Object Oriented Programming, utilising the Strategy Pattern for enemy movement, State Pattern for collectable objects, Observer Pattern for inventory updates and Composite Pattern for goals. Testing was done through JUnit Tests. For this project, I was in charge of dungeon, level and instructions page design (unfortunately in the gif demonstration the text isn't aligned correctly) for frontend and logic for picking up items, storing them in an inventory and using them (e.g. opening doors, destorying enemies) for backend. 
 
 ## How To Play
 
