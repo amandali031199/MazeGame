@@ -64,3 +64,6 @@ If getting to an exit is one of a conjunction of conditions, it must be done las
 1. Download the repository
 2. Open the repository using a Java IDE, Eg: Eclipse
 3. Open the DungeonApplication.Java file and run it
+
+## Demonstration
+![](tubbies.gif)
